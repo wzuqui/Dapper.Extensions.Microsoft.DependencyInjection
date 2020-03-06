@@ -7,6 +7,10 @@
     <PackageProjectUrl>https://github.com/wzuqui/Dapper.Extensions.Microsoft.DependencyInjection</PackageProjectUrl>
     <Title>Dapper.Extensions.Microsoft.DependencyInjection</Title>
     <PackageTags>Dapper</PackageTags>
+    <Authors>WillianLuisZuqui</Authors>
+    <PackageVersion>1.0.1</PackageVersion>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
   </PropertyGroup>
   
   <PropertyGroup>
